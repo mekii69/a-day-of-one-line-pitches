@@ -9,9 +9,9 @@ make.fun.
 import os
 
 PITCH = (
-    "Tell an AI agent your app idea in plain words and watch it build "
-    "a first working version on make.fun \u2014 no coding, nothing to pay "
-    "to try, and the idea stays yours."
+    "Just describe your app idea in plain words, like telling a friend, "
+    "and an AI agent on make.fun builds a first version you can actually "
+    "try \u2014 no coding, nothing to pay, and the idea stays yours."
 )
 
 
